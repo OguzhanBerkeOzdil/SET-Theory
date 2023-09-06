@@ -1,0 +1,5 @@
+#Define your sets like this --> set1 = {1, 2, 3}, set2 = {99, 22, 12125}, ...
+
+set1 = {1, 2, 3}
+set2 = {1, 2, 41}
+set3 = {1, 2, 42525}

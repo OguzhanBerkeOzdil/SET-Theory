@@ -1,0 +1,5 @@
+If you want to check if two given sets are equal type --> setName1 setName2 equal
+If you want to find cartesian of two given sets type --> setName1 setName2 cartesian
+If you want to find difference of two given sets type --> setName1 setNam2 difference
+If you want to find union of two given sets type --> setName1 setName2 union
+If you want to find intersection of two given sets type --> setName1 setName2 intersection
