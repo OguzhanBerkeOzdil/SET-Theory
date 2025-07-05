@@ -1,5 +1,12 @@
-If you want to print a set type --> setName print
-If you want to add a number to a set type --> setName add
-If you want to remove a number from a set type --> setName remove
-If you want to find cardinalty of a set type --> setName cardinal
-If you want to find subsets of a set type --> setName power
+📋 SINGLE SET OPERATIONS
+========================
+🔍 setName print     → Display the set
+➕ setName add       → Add an element to the set
+➖ setName remove    → Remove an element from the set
+📊 setName cardinal  → Show cardinality and power set size
+🔢 setName power     → Display all subsets (power set)
+
+Examples:
+  set1 print
+  set2 add
+  set3 cardinal

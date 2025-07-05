@@ -1,0 +1,19 @@
+# Advanced Set Operations Tool Requirements
+# Original Project: Oğuzhan Berke Özdil & Berkay Doruk (2022-2023)
+# Enhanced by: Oğuzhan Berke Özdil (2025)
+# Course: Formal Languages and Compilers - AGH University Krakow
+# Contact: https://www.linkedin.com/in/oguzhanberkeozdil/
+# No external dependencies required - uses only Python standard library
+
+# Python version compatibility: 3.7+
+# The application uses:
+# - typing (for type hints)
+# - datetime (for timestamps)
+# - json (for future data serialization features)
+# - os (for system operations)
+# - time (for UI delays)
+
+# Optional: For future enhancements
+# matplotlib>=3.5.0  # For set visualization
+# networkx>=2.6.0    # For advanced mathematical operations
+# numpy>=1.21.0      # For numerical computations

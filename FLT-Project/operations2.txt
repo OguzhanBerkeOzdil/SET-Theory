@@ -1,5 +1,14 @@
-If you want to check if two given sets are equal type --> setName1 setName2 equal
-If you want to find cartesian of two given sets type --> setName1 setName2 cartesian
-If you want to find difference of two given sets type --> setName1 setNam2 difference
-If you want to find union of two given sets type --> setName1 setName2 union
-If you want to find intersection of two given sets type --> setName1 setName2 intersection
+📋 TWO SET OPERATIONS
+=====================
+✓ setName1 setName2 equal        → Check if sets are equal
+🔗 setName1 setName2 cartesian    → Calculate cartesian product
+➖ setName1 setName2 difference   → Calculate set difference (A - B)
+∪ setName1 setName2 union        → Calculate union (A ∪ B)
+∩ setName1 setName2 intersection → Calculate intersection (A ∩ B)
+⊕ setName1 setName2 symmetric    → Calculate symmetric difference (A ⊕ B)
+⊆ setName1 setName2 subset       → Check if first is subset of second
+
+Examples:
+  set1 set2 union
+  set1 set3 intersection
+  set2 set1 subset

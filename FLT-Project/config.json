@@ -1,0 +1,44 @@
+{
+  "application": {
+    "name": "Advanced Set Operations Tool",
+    "version": "2.0",
+    "original_authors": ["Oğuzhan Berke Özdil", "Berkay Doruk"],
+    "current_maintainer": "Oğuzhan Berke Özdil",
+    "institution": "AGH University of Science and Technology, Krakow",
+    "course": "Formal Languages and Compilers",
+    "academic_year": "2022-2023",
+    "enhanced_year": "2025",
+    "contact": "https://www.linkedin.com/in/oguzhanberkeozdil/",
+    "description": "A comprehensive Python application for mathematical set operations",
+    "python_version_required": "3.7+"
+  },
+  "settings": {
+    "default_sets_file": "a.txt",
+    "export_file": "sets.txt",
+    "history_limit": 10,
+    "auto_save": true,
+    "unicode_output": true
+  },
+  "features": {
+    "single_set_operations": [
+      "print", "add", "remove", "cardinal", "power"
+    ],
+    "two_set_operations": [
+      "equal", "cartesian", "difference", "union", 
+      "intersection", "symmetric", "subset"
+    ],
+    "advanced_features": [
+      "operation_history", "data_persistence", 
+      "dynamic_set_creation", "error_handling",
+      "professional_ui"
+    ]
+  },
+  "file_structure": {
+    "main_script": "main.py",
+    "set_definitions": "a.txt",
+    "single_ops_help": "operations1.txt",
+    "two_ops_help": "operations2.txt",
+    "requirements": "requirements.txt",
+    "export_output": "sets.txt"
+  }
+}
